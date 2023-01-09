@@ -1,7 +1,7 @@
 # Hotel-Management-Project-in-CPP
 A mini Hotel Management Project in C++
 > Using user friendly menus.
-> Making room booking and Food orders made easy.
+> Making room booking and Food orders easy.
 
 #Screenshots
 ![image](https://user-images.githubusercontent.com/71898557/211371427-42d9f851-1e15-479e-9b7f-e405843c834f.png)
