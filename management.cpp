@@ -63,9 +63,9 @@ int main()
             if(Qburger-Sburger>=quant) {
                 Sburger+=quant;
                 Total_burger+=quant*250;
-                cout<<"\n\n\t\t"<<quant<<" pasta is the order!";
+                cout<<"\n\n\t\t"<<quant<<" burger is the order!";
             } else {
-                cout<<"\n\tOnly "<<Qburger-Sburger<<" Pasta remaining in hotel";
+                cout<<"\n\tOnly "<<Qburger-Sburger<<" Burger remaining in hotel";
             }
             break;
         case 4:
